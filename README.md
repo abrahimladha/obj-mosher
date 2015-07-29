@@ -1,5 +1,5 @@
 # obj-mosher
-Very simple program. Will take .obj file and input and output scrambled .obj file, reverse scrambling all but on a specified layer.
+Very simple program. Will take .obj file as input and output scrambled .obj file, reverse scrambling all but on a specified layer.
 
 Follow this tutorial to generate an obj from an image using blender. https://www.youtube.com/watch?v=_YbvXgls1Yw
 This program works assuming you have isolated your object in your image using some editor already. Open up your obj in a text editor and look for the most common second value of lines beginning with "v " and use that as the height parameter. 
